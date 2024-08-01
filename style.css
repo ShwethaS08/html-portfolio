@@ -1,0 +1,49 @@
+
+.box{
+    display: grid;
+    gap: 50px;
+}
+.left{
+    float: left;
+    margin-left: 30%;
+}
+.right{
+    margin-right: 25%;
+}
+
+.photo{
+    border-radius: 50%;
+    
+}
+.second{
+    display: flex;
+    justify-content: center;
+}
+.description{
+    margin-top: 90px;
+    margin-left:50px;
+}
+p{
+    font-size: 1.7rem;
+}
+h1{
+    font-size: 3pc;
+    color: rgb(39, 181, 228);
+}
+h2{
+    color: rgb(109, 187, 212);
+}
+.btn-primary{
+background-color: aqua;
+font-size: 2pc;
+border-radius: 50%;
+color:azure;
+}
+button:hover{
+cursor: pointer;
+}
+
+hr{
+color: white;
+width: 70%;
+}
