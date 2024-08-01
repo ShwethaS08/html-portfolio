@@ -1,4 +1,6 @@
-
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 .box{
     display: grid;
     gap: 50px;
